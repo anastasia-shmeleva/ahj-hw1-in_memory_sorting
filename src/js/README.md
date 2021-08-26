@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qa6evjwphfhfqxwr?svg=true)](https://ci.appveyor.com/project/anastasia-shmeleva/ahj-hw1-in-memory-sorting)
